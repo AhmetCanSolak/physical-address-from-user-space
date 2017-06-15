@@ -7,7 +7,7 @@ See the credits.
 
 # Credit
 
-I just wrapped out things together to demonstrate. Guys in [this stackoverflow question](http://stackoverflow.com/questions/11891979/accessing-mmaped-dev-mem) actually explain everything.
+I just wrapped out things together to demonstrate. Guys in [this stackoverflow question](http://stackoverflow.com/questions/11891979/accessing-mmaped-dev-mem) actually explained everything well.
 
 # Reference
 
